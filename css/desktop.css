@@ -12,3 +12,17 @@
 .cv{
     text-decoration: none;
 }
+
+
+.presentation{
+    margin-top: 100px;
+}
+
+.presentation h1{
+    display: flex;
+    justify-content: center;
+}
+
+#diplome{
+    margin-top: 200px;
+}
