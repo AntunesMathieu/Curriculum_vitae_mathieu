@@ -1,0 +1,14 @@
+#photo_ci{
+    width: 15%;
+    border-radius: 35px;
+}
+
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.cv{
+    text-decoration: none;
+}
