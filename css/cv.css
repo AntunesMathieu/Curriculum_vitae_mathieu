@@ -58,3 +58,11 @@ body{
     display: flex;
     justify-content: center;
 }
+
+#diplome{
+    margin-top: 150px;
+}
+
+.tiret{
+    list-style: disclosure-closed;
+}
