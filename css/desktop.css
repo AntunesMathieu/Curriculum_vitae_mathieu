@@ -1,28 +1,61 @@
+body{
+    background-color: aqua;
+}
+
+.name{
+    display: flex;
+    justify-content: center;
+    background-color: blue;
+    margin: -8px;
+    margin-bottom: 150px;
+}
+
+.name h1{
+    color: white;
+}
+
 #photo_ci{
-    width: 15%;
+    width: 250px;
     border-radius: 35px;
+    margin-left: 80px;
 }
 
 .nav-bar{
     display: flex;
-    justify-content: space-between;
+}
 
+.nav-bar li{
+    list-style: none;
+    text-decoration: none;
+    font-size: large;
+}
+
+.nav-bar a{
+    text-decoration: none;
+    color: black;
 }
 
 .cv{
     text-decoration: none;
 }
 
-
 .presentation{
-    margin-top: 100px;
+    margin-left: 100px;
 }
 
-.presentation h1{
+.presentation h2{
+    display: flex;
+    justify-content: center;
+}
+.presentation p{
     display: flex;
     justify-content: center;
 }
 
 #diplome{
     margin-top: 200px;
+}
+
+.test h2{
+    margin-bottom: 250px;
 }
